@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Contador
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Proyecto en react, ejemplo de un componente funcional usando el hook useState y el manejo de event.listener para incrementar un contador al hacer clic en el botón, este ejecuta la función que desencadeno el evento onClick
 
 ## Available Scripts
 
