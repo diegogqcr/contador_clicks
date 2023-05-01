@@ -23,7 +23,7 @@ function App() {
   return (
     <div className="App">
       <div className='logo-contenedor'>
-      <img
+        <img
           className='logo'
           src={gamboLogo}
           alt='Logo de Gamboa'
